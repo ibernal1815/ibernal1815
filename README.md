@@ -23,12 +23,12 @@ Hi, I’m **Isaiah Bernal** (@ibernal1815), a passionate **cybersecurity** and *
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/isaiah-bernal-707576218/)
   - Email me at [isaiahbernal750@outlook.com](mailto:isaiahbernal750@outlook.com)
 
-- 😄 **Pronouns:** He/Him
+- 😄 **Pronouns:** He/Him/His
 
 - ⚡ **Fun Fact:** I love setting up **cybersecurity home labs** to simulate real-world scenarios and improve my hands-on skills. I also enjoy exploring how emerging technologies can advance our approach to security.
 
 ## 🎓 **Education:**
-- **Associates of Science** in Cybersecurity and Computer Programming from Los Angeles Mission College
+- **Associates of Science** in Cybersecurity and Computer Programmier from Los Angeles Mission College
 - **Bachelor of Science** in Computer Information Technology at California State University, Northridge (CSUN)
 
 ## 🛠️ **Skills & Technologies:**
