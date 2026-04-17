@@ -1,6 +1,16 @@
-# Isaiah Bernal
+<div align="center">
 
-### Purple Team Engineer · SOC Analyst · Detection Engineering / DFIR
+# Isaiah Bernal
+### Purple Team Engineer &nbsp;·&nbsp; SOC Analyst &nbsp;·&nbsp; Detection Engineering / DFIR
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-bernal-707576218/)
+[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-E02020?style=flat-square)](https://www.comptia.org/certifications/cybersecurity-analyst)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E02020?style=flat-square)](https://www.comptia.org/certifications/security)
+[![CC](https://img.shields.io/badge/ISC2-CC-006400?style=flat-square)](https://www.isc2.org/certifications/cc)
+
+</div>
+
+---
 
 My background is in IT infrastructure, but I found my passion on the defensive side of security. I spend time in my home lab simulating attacks and digging through Windows Event Logs, Sysmon telemetry, and memory dumps to understand how things actually work under the hood.
 
@@ -12,60 +22,36 @@ Finishing my B.S. in Computer Information Technology at CSUN and starting my M.S
 
 ## Projects
 
-### [Sysmon Detection Lab](https://github.com/ibernal1815/sysmon-sysinternals-detection-lab) · *In Progress*
-Simulating MITRE ATT&CK techniques including persistence, privilege escalation, and lateral movement. Writing custom Sigma rules mapped to detected patterns and correlating alerts through Wazuh and Elastic SIEM.
-
-### [Malware Analysis Lab](https://github.com/ibernal1815/malware-analysis-lab) · *In Progress*
-Static and dynamic malware analysis using FLARE-VM and REMnux. Memory forensics with Volatility, behavioral sandbox execution, and structured IOC reports with YARA rule drafts and Sigma detections.
-
-### [Python Log Normalizer & IOC Extractor](https://github.com/ibernal1815/log-normalizer) · *In Progress*
-6-module CLI tool for multi-format log parsing, normalization, and IOC extraction. Pulls IPs, domains, file hashes, and file paths from raw log files. Full test suite and sample log corpus included.
-
-### [Enterprise Active Directory Lab](https://github.com/ibernal1815/active-directory-lab)
-Multi-OU Windows Server domain with DNS, GPO, and role-based file shares. Simulated AD incidents and automated user onboarding for 10+ accounts via PowerShell provisioning scripts.
-
-### [Windows Internals Lab](https://github.com/ibernal1815/windows-internals-lab)
-Windows internals investigation using Microsoft Sysinternals and Sysmon, documented through structured scenarios in a controlled VMware environment.
-
-### [GuardQuote](https://github.com/ibernal1815/GuardQuote) · *Capstone Project*
-Full stack insurance quote platform built with React, NestJS, PostgreSQL, and JWT authentication. Python-based ML pricing service using FastAPI and XGBoost for premium estimation.
+| Project | Focus | Stack | Status |
+|---|---|---|---|
+| [Sysmon Detection Lab](https://github.com/ibernal1815/sysmon-sysinternals-detection-lab) | MITRE ATT&CK simulation, Sigma rule authoring, alert correlation | Sysmon, Elastic SIEM, Wazuh | In Progress |
+| [Malware Analysis Lab](https://github.com/ibernal1815/malware-analysis-lab) | Static/dynamic analysis, memory forensics, IOC reporting | FLARE-VM, REMnux, Volatility, YARA | In Progress |
+| [Python Log Normalizer & IOC Extractor](https://github.com/ibernal1815/log-normalizer) | Multi-format log parsing, IOC extraction, CLI tooling | Python | In Progress |
+| [Enterprise Active Directory Lab](https://github.com/ibernal1815/active-directory-lab) | Domain administration, incident simulation, GPO, provisioning | Windows Server, PowerShell | Complete |
+| [Windows Internals Lab](https://github.com/ibernal1815/windows-internals-lab) | Process analysis, system behavior documentation | Sysinternals, Sysmon, VMware | Complete |
+| [GuardQuote](https://github.com/ibernal1815/GuardQuote) | Full stack web platform with ML pricing engine | React, NestJS, PostgreSQL, FastAPI, XGBoost | Capstone |
 
 ---
 
 ## Skills
 
-**Security** · Splunk, Elastic SIEM, Wazuh, Sysmon, Suricata, Wireshark, Volatility, Sysinternals, CyberChef
-
-**Operating Systems** · Linux (Ubuntu, Fedora), Windows 10/11, Windows Server, macOS
-
-**Scripting** · Python, Bash, PowerShell, SQL
-
-**Infrastructure** · VMware, VirtualBox, Proxmox, pfSense, Active Directory, Azure / Entra ID
-
----
-
-## Education
-
-**B.S. Computer Information Technology** · California State University, Northridge (Exp. 2026)
-
-**A.S. Cybersecurity** · Los Angeles Mission College (2023)
-
-**M.S. Information Security** · Cal Poly Pomona (Incoming Fall 2026, Exp. 2028)
+```
+Security       Splunk · Elastic SIEM · Wazuh · Sysmon · Suricata · Wireshark · Volatility · Sysinternals · CyberChef
+Scripting      Python · Bash · PowerShell · SQL
+OS             Linux (Ubuntu, Fedora) · Windows 10/11 · Windows Server · macOS
+Infrastructure VMware · VirtualBox · Proxmox · pfSense · Active Directory · Azure / Entra ID
+```
 
 ---
 
-## Certifications
+## Education & Certifications
 
-CompTIA Security+
+**B.S. Computer Information Technology** &nbsp;·&nbsp; California State University, Northridge &nbsp;·&nbsp; Exp. 2026
 
-CompTIA CySA+
+**M.S. Information Security** &nbsp;·&nbsp; Cal Poly Pomona &nbsp;·&nbsp; Incoming Fall 2026
 
-ISC2 Certified in Cybersecurity (CC)
+**A.S. Cybersecurity** &nbsp;·&nbsp; Los Angeles Mission College &nbsp;·&nbsp; 2023
 
-HTB Cybersecurity Defense Analyst (CDSA) · *In Progress*
+&nbsp;
 
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/isaiah-bernal-707576218/)
+CompTIA Security+ &nbsp;·&nbsp; CompTIA CySA+ &nbsp;·&nbsp; ISC2 CC &nbsp;·&nbsp; HTB CDSA *(In Progress)*
