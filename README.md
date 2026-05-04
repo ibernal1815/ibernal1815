@@ -29,7 +29,7 @@ Finishing my B.S. in Computer Information Technology at CSUN and starting my M.S
 | [Sysmon Detection Lab](https://github.com/ibernal1815/sysmon-sysinternals-detection-lab) | MITRE ATT&CK simulation, Sigma rule authoring, alert correlation | Sysmon, Elastic SIEM, Wazuh | In Progress |
 | [Malware Analysis Lab](https://github.com/ibernal1815/malware-analysis-lab) | Static/dynamic analysis, memory forensics, IOC reporting | FLARE-VM, REMnux, Volatility, YARA | In Progress |
 | [Enterprise Active Directory Lab](https://github.com/ibernal1815/active-directory-lab) | Domain administration, incident simulation, GPO, bulk provisioning | Windows Server, PowerShell | Complete |
-| [Windows Internals Lab](https://github.com/ibernal1815/windows-internals-lab) | Process analysis, system behavior documentation | Sysinternals, Sysmon, VMware | Complete |
+| [Windows Internals Lab](https://github.com/ibernal1815/windows-internals-lab) | Process analysis, system behavior documentation | Sysinternals, Sysmon, VirtualBox | In Progress |
 
 ---
 
