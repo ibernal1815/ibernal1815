@@ -10,11 +10,9 @@
 
 </div>
 
----
-
 My background is in IT infrastructure, but I found my passion on the defensive side of security. I spend time in my home lab simulating attacks and digging through Windows Event Logs, Sysmon telemetry, and memory dumps to understand how things actually work under the hood.
 
-Lately I've been focused on reconstructing attack timelines around techniques like persistence and privilege escalation using Elastic SIEM, Volatility, and Suricata. Currently interning as a Cloud Windows Systems Administrator at CSUN while building out my security research labs.
+Lately I've been focused on reconstructing attack timelines around techniques like persistence and privilege escalation using Elastic SIEM, Volatility, and Suricata. I also build Python tooling for log normalization, IOC extraction, and threat intel enrichment as a modular pipeline. Currently working as a Cloud Windows Systems Administrator at CSUN while building out my security research labs.
 
 Finishing my B.S. in Computer Information Technology at CSUN and starting my M.S. in Information Security at Cal Poly Pomona in the fall.
 
@@ -24,12 +22,14 @@ Finishing my B.S. in Computer Information Technology at CSUN and starting my M.S
 
 | Project | Focus | Stack | Status |
 |---|---|---|---|
+| [Log Normalizer / IOC Extractor](https://github.com/ibernal1815/log-normalizer) | Multi-format log parsing, IOC extraction, suspicious pattern flagging, structured JSON output | Python, argparse, re, python-evtx, rich | Complete |
+| [Threat Intel Enricher](https://github.com/ibernal1815/threat-intel-enricher) | IOC enrichment against VirusTotal and AbuseIPDB, verdict scoring, pipeline chaining via stdout | Python, requests, psycopg2 | Complete |
+| [SQL Security Lab](https://github.com/ibernal1815/sql-security-lab) | Dual-version Flask app demonstrating SQL injection vs parameterized queries, RBAC, row-level security | Python, Flask, PostgreSQL | Complete |
+| [Python Keylogger with C2 Server](https://github.com/ibernal1815/python-keylogger) | AES-encrypted keystroke capture, HTTP POST to Flask C2, modular architecture with unit tests | Python, Flask, hashlib, pynput | Complete |
 | [Sysmon Detection Lab](https://github.com/ibernal1815/sysmon-sysinternals-detection-lab) | MITRE ATT&CK simulation, Sigma rule authoring, alert correlation | Sysmon, Elastic SIEM, Wazuh | In Progress |
 | [Malware Analysis Lab](https://github.com/ibernal1815/malware-analysis-lab) | Static/dynamic analysis, memory forensics, IOC reporting | FLARE-VM, REMnux, Volatility, YARA | In Progress |
-| [Python Log Normalizer & IOC Extractor](https://github.com/ibernal1815/log-normalizer) | Multi-format log parsing, IOC extraction, CLI tooling | Python | Testing |
-| [Enterprise Active Directory Lab](https://github.com/ibernal1815/active-directory-lab) | Domain administration, incident simulation, GPO, provisioning | Windows Server, PowerShell | Complete |
+| [Enterprise Active Directory Lab](https://github.com/ibernal1815/active-directory-lab) | Domain administration, incident simulation, GPO, bulk provisioning | Windows Server, PowerShell | Complete |
 | [Windows Internals Lab](https://github.com/ibernal1815/windows-internals-lab) | Process analysis, system behavior documentation | Sysinternals, Sysmon, VMware | Complete |
-| [GuardQuote](https://github.com/ibernal1815/GuardQuote) | Full stack web platform with ML pricing engine | React, NestJS, PostgreSQL, FastAPI, XGBoost | Capstone |
 
 ---
 
@@ -37,8 +37,10 @@ Finishing my B.S. in Computer Information Technology at CSUN and starting my M.S
 
 ```
 Security       Splunk · Elastic SIEM · Wazuh · Sysmon · Suricata · Wireshark · Volatility · Sysinternals · CyberChef
-Scripting      Python · Bash · PowerShell · SQL
-OS             Linux (Ubuntu, Fedora) · Windows 10/11 · Windows Server · macOS
+Detection      Sigma Rules · MITRE ATT&CK · Alert Triage · IOC Extraction · Log Analysis · Threat Hunting
+Python         requests · argparse · hashlib · psycopg2 · pynput · python-evtx · re · Flask · pytest
+Scripting      Bash · PowerShell · SQL
+OS             Linux (Ubuntu, Kali, Fedora) · Windows 10/11 · Windows Server · macOS
 Infrastructure VMware · VirtualBox · Proxmox · pfSense · Active Directory · Azure / Entra ID
 ```
 
@@ -46,10 +48,8 @@ Infrastructure VMware · VirtualBox · Proxmox · pfSense · Active Directory ·
 
 ## Education & Certifications
 
-**B.S. Computer Information Technology** &nbsp;·&nbsp; California State University, Northridge &nbsp;·&nbsp; Exp. 2026
-
-**M.S. Information Security** &nbsp;·&nbsp; Cal Poly Pomona &nbsp;·&nbsp; Incoming Fall 2026
-
+**B.S. Computer Information Technology** &nbsp;·&nbsp; California State University, Northridge &nbsp;·&nbsp; Exp. 2026  
+**M.S. Information Security** &nbsp;·&nbsp; Cal Poly Pomona &nbsp;·&nbsp; Incoming Fall 2026  
 **A.S. Cybersecurity** &nbsp;·&nbsp; Los Angeles Mission College &nbsp;·&nbsp; 2023
 
 &nbsp;
