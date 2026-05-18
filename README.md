@@ -14,7 +14,7 @@ My background is in IT infrastructure, but I found my passion on the defensive s
 
 Lately I've been focused on reconstructing attack timelines around techniques like persistence and privilege escalation using Elastic SIEM, Volatility, and Suricata. I also build Python tooling for log normalization, IOC extraction, and threat intel enrichment as a modular pipeline. Currently working as a Cloud Windows Systems Administrator at CSUN while building out my security research labs.
 
-Finishing my B.S. in Computer Information Technology at CSUN and starting my M.S. in Information Security at Cal Poly Pomona in the fall.
+Recently graduated with my B.S. in Computer Information Technology from CSUN and currently deciding on a master's program in information security.
 
 ---
 
@@ -48,9 +48,8 @@ Infrastructure VMware · VirtualBox · Proxmox · pfSense · Active Directory ·
 
 ## Education & Certifications
 
-**B.S. Computer Information Technology** &nbsp;·&nbsp; California State University, Northridge &nbsp;·&nbsp; Exp. 2026  
-**M.S. Information Security** &nbsp;·&nbsp; Cal Poly Pomona &nbsp;·&nbsp; Incoming Fall 2026  
-**A.S. Cybersecurity** &nbsp;·&nbsp; Los Angeles Mission College &nbsp;·&nbsp; 2023
+**B.S. Computer Information Technology** &nbsp;·&nbsp; California State University, Northridge &nbsp;·&nbsp; 2026  
+**A.S. Cybersecurity & Computer Programming** &nbsp;·&nbsp; Los Angeles Mission College &nbsp;·&nbsp; 2023/2024
 
 &nbsp;
 
