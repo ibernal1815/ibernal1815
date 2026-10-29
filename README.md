@@ -1,61 +1,130 @@
 <div align="center">
 
-# ISAIAH BERNAL
-**`Malware Analysis` · `Detection Engineering` · `Offensive Security`**
+# Isaiah Bernal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&labelColor=18181b&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-bernal-707576218/)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-3b82f6?style=flat-square&labelColor=18181b)](https://www.comptia.org/certifications/security)
-[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-3b82f6?style=flat-square&labelColor=18181b)](https://www.comptia.org/certifications/cybersecurity-analyst)
-[![ISC2 CC](https://img.shields.io/badge/ISC2-CC-10b981?style=flat-square&labelColor=18181b)](https://www.isc2.org/certifications/cc)
-![In Progress](https://img.shields.io/badge/In_Progress-PenTest%2B_%7C_SecurityX-52525b?style=flat-square&labelColor=18181b)
+<!-- Dynamic Typing SVG Header -->
+<a href="https://github.com/ibernal1815">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Malware+Analysis+%7C+Offensive+Security+%7C+Security+Engineering;Windows+Internals+%7C+Memory+Forensics+%7C+Detection+Engineering;Building+Isolated+KVM%2FQEMU+Labs+%26+Python+Security+Tooling" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Profile Views & Core Links -->
+![Profile Views](https://komarev.com/ghpvc/?username=ibernal1815&label=Profile%20Views&color=0ea5e9&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-bernal-707576218/)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
+[![ISC2 CC](https://img.shields.io/badge/ISC2-CC-2EA043?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/certifications/cc)
+![In Progress](https://img.shields.io/badge/In_Progress-PenTest%2B_%7C_SecurityX-4B5563?style=flat-square)
+
+---
+
+Security engineer with a background in IT infrastructure, focused on dissecting malicious behavior across **Windows internals, volatile memory, network traffic, and endpoint telemetry**. I build isolated virtualization labs around **RHEL, KVM/QEMU, libvirt, and containers** for adversary emulation and binary detonation, backed by custom **Python** tooling for log normalization, IOC extraction, and automated threat intelligence enrichment.
 
 </div>
 
 <br>
 
-> **System Focus:** Dissecting malicious behavior across Windows internals, volatile memory, network traffic, and endpoint telemetry. I build isolated virtualization labs (`RHEL`, `KVM/QEMU`, `libvirt`) to detonate binaries, emulate adversary tradecraft, and engineer high-fidelity detection pipelines backed by custom `Python` automation.
+## Technical Arsenal
+
+**Languages & Development**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Malware Analysis & DFIR**
+<p>
+  <img src="https://img.shields.io/badge/FLARE_VM-C8202F?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/REMnux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volatility_3-5C2D91?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinDbg-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/YARA-111111?style=for-the-badge&logo=virustotal&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sysinternals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+**Detection Engineering & Offensive Security**
+<p>
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sigma_Rules-2EA043?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+</p>
+
+**Infrastructure & Virtualization**
+<p>
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/KVM_%2F_QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 <br>
 
-### `01 //` Engineering & Research
+## Featured Engineering & Labs
 
-| Repository | Architecture & Scope | Stack |
-| :--- | :--- | :--- |
-| **[log-normalizer](https://github.com/ibernal1815/log-normalizer)**<br>![Status](https://img.shields.io/badge/status-complete-10b981?style=flat-square&labelColor=18181b) | Automated EVTX parsing, log normalization, regex IOC extraction, and structured JSON output. | `Python` `python-evtx` `Regex` `pytest` |
-| **[threat-intel-enricher](https://github.com/ibernal1815/threat-intel-enricher)**<br>![Status](https://img.shields.io/badge/status-complete-10b981?style=flat-square&labelColor=18181b) | Automated IOC enrichment, multi-source verdict scoring, and persistent intelligence storage. | `Python` `VirusTotal` `AbuseIPDB` `PostgreSQL` |
-| **[active-directory-lab](https://github.com/ibernal1815/active-directory-lab)**<br>![Status](https://img.shields.io/badge/status-complete-10b981?style=flat-square&labelColor=18181b) | Tiered domain architecture, GPO hardening, automated provisioning, and attack simulation. | `Windows Server` `AD DS` `PowerShell` |
-| **[python-keylogger](https://github.com/ibernal1815/python-keylogger)**<br>![Status](https://img.shields.io/badge/status-complete-10b981?style=flat-square&labelColor=18181b) | Low-level keystroke capture, AES-encrypted payload staging, HTTP C2 exfiltration, and testing. | `Python` `Flask` `AES` `pytest` |
-| **[sql-security-lab](https://github.com/ibernal1815/sql-security-lab)**<br>![Status](https://img.shields.io/badge/status-complete-10b981?style=flat-square&labelColor=18181b) | SQL injection exploitation and remediation via parameterized queries, RBAC, and row-level security. | `Python` `Flask` `PostgreSQL` |
-| **[sysmon-detection-lab](https://github.com/ibernal1815/sysmon-sysinternals-detection-lab)**<br>![Status](https://img.shields.io/badge/status-active_build-3b82f6?style=flat-square&labelColor=18181b) | Adversary emulation mapped to MITRE ATT&CK, Sysmon telemetry analysis, and Sigma rules. | `Sysmon` `Sigma` `Elastic` `Wazuh` |
-| **[windows-internals-lab](https://github.com/ibernal1815/windows-internals-lab)**<br>![Status](https://img.shields.io/badge/status-active_build-3b82f6?style=flat-square&labelColor=18181b) | Process/thread structures, virtual memory inspection, persistence mechanics, and kernel debugging. | `WinDbg` `Sysinternals` `Sysmon` `Volatility` |
-| **[malware-analysis-lab](https://github.com/ibernal1815/malware-analysis-lab)**<br>![Status](https://img.shields.io/badge/status-kvm_migration-f59e0b?style=flat-square&labelColor=18181b) | Isolated static/dynamic detonation environment, memory forensics, and custom network emulation. | `RHEL` `KVM/QEMU` `libvirt` `FLARE-VM` `REMnux` |
-
-<br>
-
-### `02 //` Technical Arsenal
-
-| Domain | Tooling & Technologies |
-| :--- | :--- |
-| **Malware & DFIR** | <kbd>FLARE-VM</kbd> <kbd>REMnux</kbd> <kbd>Volatility 3</kbd> <kbd>WinDbg</kbd> <kbd>YARA</kbd> <kbd>Sysinternals</kbd> <kbd>Wireshark</kbd> |
-| **Detection & SIEM** | <kbd>Sysmon</kbd> <kbd>Sigma</kbd> <kbd>Elastic Stack</kbd> <kbd>Splunk</kbd> <kbd>Wazuh</kbd> <kbd>Suricata</kbd> <kbd>MITRE ATT&CK</kbd> |
-| **Offensive Security** | <kbd>Burp Suite</kbd> <kbd>Nmap</kbd> <kbd>Metasploit</kbd> <kbd>AD Exploitation</kbd> <kbd>C2 Development</kbd> |
-| **Infrastructure** | <kbd>RHEL</kbd> <kbd>KVM/QEMU</kbd> <kbd>libvirt</kbd> <kbd>Podman</kbd> <kbd>Proxmox</kbd> <kbd>VMware</kbd> <kbd>pfSense</kbd> |
-| **Development** | <kbd>Python</kbd> <kbd>PowerShell</kbd> <kbd>Bash</kbd> <kbd>SQL</kbd> <kbd>Flask</kbd> <kbd>PostgreSQL</kbd> <kbd>pytest</kbd> |
+| Repository | Architecture & Focus | Core Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[Log Normalizer / IOC Extractor](https://github.com/ibernal1815/log-normalizer)** | Automated EVTX parsing, log normalization, regex IOC extraction, and structured JSON output | `Python` `python-evtx` `Regex` `pytest` | ![Complete](https://img.shields.io/badge/Complete-2EA043?style=flat-square) |
+| **[Threat Intel Enricher](https://github.com/ibernal1815/threat-intel-enricher)** | Automated IOC enrichment, multi-source verdict scoring, and persistent intelligence pipelines | `Python` `VirusTotal` `AbuseIPDB` `PostgreSQL` | ![Complete](https://img.shields.io/badge/Complete-2EA043?style=flat-square) |
+| **[Enterprise Active Directory Lab](https://github.com/ibernal1815/active-directory-lab)** | Tiered domain administration, GPO hardening, PowerShell provisioning, and attack simulation | `Windows Server` `AD DS` `PowerShell` | ![Complete](https://img.shields.io/badge/Complete-2EA043?style=flat-square) |
+| **[Python Keylogger with C2](https://github.com/ibernal1815/python-keylogger)** | Low-level keystroke capture, AES-encrypted staging, HTTP C2 exfiltration, and modular unit tests | `Python` `Flask` `AES` `pytest` | ![Complete](https://img.shields.io/badge/Complete-2EA043?style=flat-square) |
+| **[SQL Security Lab](https://github.com/ibernal1815/sql-security-lab)** | SQL injection exploitation and remediation via parameterized queries, RBAC, and row-level security | `Python` `Flask` `PostgreSQL` | ![Complete](https://img.shields.io/badge/Complete-2EA043?style=flat-square) |
+| **[Sysmon Detection Lab](https://github.com/ibernal1815/sysmon-sysinternals-detection-lab)** | ATT&CK adversary simulation, Sysmon telemetry analysis, Sigma rules, and SIEM detection engineering | `Sysmon` `Sigma` `Elastic` `Wazuh` | ![Active Build](https://img.shields.io/badge/Active_Build-0ea5e9?style=flat-square) |
+| **[Windows Internals Lab](https://github.com/ibernal1815/windows-internals-lab)** | Process/thread structures, virtual memory inspection, persistence mechanics, and forensic artifacts | `Windows` `WinDbg` `Sysinternals` `Volatility` | ![Active Build](https://img.shields.io/badge/Active_Build-0ea5e9?style=flat-square) |
+| **[Malware Analysis Lab](https://github.com/ibernal1815/malware-analysis-lab)** | Isolated static/dynamic detonation environment, memory forensics, and custom network emulation | `RHEL` `KVM/QEMU` `libvirt` `FLARE-VM` `REMnux` | ![Rebuilding](https://img.shields.io/badge/Rebuilding-D97706?style=flat-square) |
 
 <br>
 
-### `03 //` Academic Foundation
+## Education
 
 | Degree | Institution | Timeline |
 | :--- | :--- | :---: |
-| **M.S. Cybersecurity & Information Assurance** | Western Governors University | `2027` |
-| **B.S. Computer Information Technology** | California State University, Northridge | `2026` |
-| **A.S. Cybersecurity & Computer Programming** | Los Angeles Mission College | `2024` |
+| **M.S. Cybersecurity and Information Assurance** | Western Governors University | **2027 (Expected)** |
+| **B.S. Computer Information Technology** | California State University, Northridge | 2026 |
+| **A.S. Cybersecurity and Computer Programming** | Los Angeles Mission College | 2023 – 2024 |
 
 <br>
+
+## GitHub Telemetry & Activity
+
+<details open>
+<summary><b>GitHub Profile Stats & Language Distribution (Click to Collapse/Expand)</b></summary>
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibernal1815&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_color=1E293B&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibernal1815&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=1E293B&bg_color=0D1117&title_color=38BDF8" />
+</div>
+<div align="center">
+  <img height="165em" src="https://streak-stats.demolab.com?user=ibernal1815&theme=tokyonight&hide_border=false&border=1E293B&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+</div>
+</details>
+
+<details>
+<summary><b>Recent Contribution Graph (Click to Expand)</b></summary>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibernal1815&bg_color=0D1117&color=38BDF8&line=0ea5e9&point=FFFFFF&area=true&hide_border=false&border_color=1E293B" width="95%" />
+</div>
+</details>
 
 ---
 
 <div align="center">
-<sub><b>Analyze the behavior. Understand the system. Build the detection.</b></sub>
+
+**Analyze the behavior. Understand the system. Build the detection.**
+
+</div>
 </div>
