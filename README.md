@@ -94,7 +94,7 @@ My home lab is currently being rebuilt around **RHEL, KVM/QEMU, libvirt, and con
 </table>
 
 **Certified:** CompTIA Security+ · CompTIA CySA+ · ISC2 CC
-**In Progress:** HTB CPTS · Cisco CCNA
+**In Progress:** CompTIA PenTest+ · CompTIA SecurityX
 
 <br>
 
