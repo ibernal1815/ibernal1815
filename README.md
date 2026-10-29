@@ -2,15 +2,14 @@
 
 # Isaiah Bernal
 
-<!-- Dynamic Typing SVG Header -->
+<!-- Dynamic Typing SVG Header (Calibrated to prevent viewport clipping) -->
 <a href="https://github.com/ibernal1815">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Malware+Analysis+%7C+Offensive+Security+%7C+Security+Engineering;Windows+Internals+%7C+Memory+Forensics+%7C+Detection+Engineering;Building+Isolated+KVM%2FQEMU+Labs+%26+Python+Security+Tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Malware+Analysis+%7C+Offensive+Security+%7C+DFIR;Windows+Internals+%7C+Memory+Forensics+%7C+SIEM;Isolated+KVM%2FQEMU+Labs+%26+Python+Security+Tools" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- Profile Views & Core Links -->
-![Profile Views](https://komarev.com/ghpvc/?username=ibernal1815&label=Profile%20Views&color=0ea5e9&style=flat-square)
+<!-- Core Links & Certifications -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-bernal-707576218/)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
@@ -96,35 +95,10 @@ Security engineer with a background in IT infrastructure, focused on dissecting 
 | **B.S. Computer Information Technology** | California State University, Northridge | 2026 |
 | **A.S. Cybersecurity and Computer Programming** | Los Angeles Mission College | 2023 – 2024 |
 
-<br>
-
-## GitHub Telemetry & Activity
-
-<details open>
-<summary><b>GitHub Profile Stats & Language Distribution (Click to Collapse/Expand)</b></summary>
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibernal1815&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_color=1E293B&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibernal1815&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=1E293B&bg_color=0D1117&title_color=38BDF8" />
-</div>
-<div align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=ibernal1815&theme=tokyonight&hide_border=false&border=1E293B&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-</div>
-</details>
-
-<details>
-<summary><b>Recent Contribution Graph (Click to Expand)</b></summary>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibernal1815&bg_color=0D1117&color=38BDF8&line=0ea5e9&point=FFFFFF&area=true&hide_border=false&border_color=1E293B" width="95%" />
-</div>
-</details>
-
 ---
 
 <div align="center">
 
 **Analyze the behavior. Understand the system. Build the detection.**
 
-</div>
 </div>
