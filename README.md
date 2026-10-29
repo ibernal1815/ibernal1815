@@ -8,8 +8,8 @@
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square)](https://www.comptia.org/certifications/security)
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=flat-square)](https://www.comptia.org/certifications/cybersecurity-analyst)
 [![ISC2 CC](https://img.shields.io/badge/ISC2-CC-468145?style=flat-square)](https://www.isc2.org/certifications/cc)
-![CPTS](https://img.shields.io/badge/HTB-CPTS_In_Progress-9FEF00?style=flat-square\&logo=hackthebox\&logoColor=black)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA_In_Progress-049FD9?style=flat-square\&logo=cisco\&logoColor=white)
+![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-C8202F?style=flat-square)
+![SecurityX](https://img.shields.io/badge/CompTIA-SecurityX%2B-C8202F?style=flat-square)
 
 </div>
 
