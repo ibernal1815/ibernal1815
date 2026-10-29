@@ -87,18 +87,19 @@ Security engineer with a background in IT infrastructure, focused on dissecting 
 
 <br>
 
-## Education
+## Academic Credentials
 
-| Degree | Institution | Timeline |
+| Credential & Focus | Institution | Status |
 | :--- | :--- | :---: |
-| **M.S. Cybersecurity and Information Assurance** | Western Governors University | **2027 (Expected)** |
-| **B.S. Computer Information Technology** | California State University, Northridge | 2026 |
-| **A.S. Cybersecurity and Computer Programming** | Los Angeles Mission College | 2023 – 2024 |
+| ![MS](https://img.shields.io/badge/Degree-M.S.-0ea5e9?style=flat-square&labelColor=18181b) **Cybersecurity & Information Assurance**<br><sub>Focus: Secure Systems Architecture, Penetration Testing, & DFIR</sub> | **Western Governors University** | ![Expected 2027](https://img.shields.io/badge/Expected-2027-0ea5e9?style=flat-square&labelColor=18181b) |
+| ![BS](https://img.shields.io/badge/Degree-B.S.-2EA043?style=flat-square&labelColor=18181b) **Computer Information Technology**<br><sub>Focus: Systems Engineering, Network Infrastructure, & Enterprise Administration</sub> | **California State University, Northridge** | ![Completed 2026](https://img.shields.io/badge/Graduated-2026-2EA043?style=flat-square&labelColor=18181b) |
+| ![AS](https://img.shields.io/badge/Degree-A.S.-2EA043?style=flat-square&labelColor=18181b) **Cybersecurity & Computer Programming**<br><sub>Focus: Software Development Foundations, Network Defense, & Scripting</sub> | **Los Angeles Mission College** | ![Completed 2024](https://img.shields.io/badge/Graduated-2024-2EA043?style=flat-square&labelColor=18181b) |
+
+<br>
 
 ---
 
+<!-- High-Contrast Cyan & Slate SVG Footer Banner -->
 <div align="center">
-
-**Analyze the behavior. Understand the system. Build the detection.**
-
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:1E293B,100:0D1117&height=90&section=header&text=Analyze%20the%20behavior.%20Understand%20the%20system.%20Build%20the%20detection.&fontSize=20&fontColor=38BDF8&fontAlignY=52&stroke=38BDF8&strokeWidth=1" width="100%" alt="Footer Quote" />
 </div>
